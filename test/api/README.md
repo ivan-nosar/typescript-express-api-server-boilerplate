@@ -1,0 +1,1 @@
+Collection of [Postman](https://www.postman.com/)-compatible test suits
